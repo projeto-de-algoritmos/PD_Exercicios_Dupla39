@@ -17,16 +17,14 @@ Este trabalho envolve a resolução de exercícios que abordam o conteúdo do m�
 ### Exercicio 1 - "Trapping Rain Water"
 **Nível do exercício:** Difícil
 
-![329]()
+![42](./image/screenshot_ex1.png)
 
 Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/trapping-rain-water/description/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
 ### Vídeo do Exercício 1 
-O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video]()
-
-Disponível também no Youtube [clique aqui]()
+O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](./videos/Exercicio1_Philipe_PD.mp4)
 
 ### Exercicio 2 - ""
 **Nível do exercício:** Médio
