@@ -26,19 +26,16 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 ### Vídeo do Exercício 1 
 O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](./videos/Exercicio1_Philipe_PD.mp4)
 
-### Exercicio 2 - ""
+### Exercicio 2 - "Maximum Profit in Job Scheduling"
 **Nível do exercício:** Médio
 
-![743]()
-Para acessar a página do exercício [clique aqui]()
+![1235](./image/screenshot_ex2.png)
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
 ### Vídeo do Exercício 2
-O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video]()
- 
-Disponível também no Youtube [clique aqui]()
-
+O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](./videos/Exercicio2_Pablo_PD.mp4)
 
 <br>
 
